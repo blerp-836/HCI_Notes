@@ -58,6 +58,8 @@ Our model of a design life cycle will cover four phases:
 
 - Design life cycle is similar to user using interface
 - Shown below is the design life cycle with methods in between each phase.
+![image](https://github.com/blerp-836/HCI_Notes/assets/78700027/6dff2609-d60e-4c4d-a3d1-aff047bb0f2a)
+
 
 
 ## Qualitative Vs Quantitative Data
