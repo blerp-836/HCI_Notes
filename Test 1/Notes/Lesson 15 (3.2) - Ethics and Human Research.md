@@ -85,7 +85,9 @@ In general, the benefits to society must outweigh the risks to the subjects in t
 
 ## Research ethics and Industry
 - Rapid A/B Experiments
-- Wont pass IRB and Facebook
+	- Lots of companies are constantly doing very interesting testing on their users with a lot of rapid AB testing 
+- Wont pass IRB
+- Facebook published titled experimental evidence of massive-scale emotional contagion through social networks.Facebook wanted to to see if they could predict what would make users happy or sad. They tweaked the news feed so some users get more happy news and some users get negative news. Then they see if users who get happy news will post have better mood and post positive news and users who get sad news will post more negative posts
 - Facebook manipulate users
 	- data use policy
 	- Not informed consent
