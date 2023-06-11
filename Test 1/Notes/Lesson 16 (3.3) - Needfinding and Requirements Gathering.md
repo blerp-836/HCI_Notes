@@ -48,6 +48,27 @@ Below are five tips in avoiding bias during need-finding:
 4. Voluntary response bias - Oversampling. Reduce survey shown
 5. Recall bias - People arent good what they did during activity done in past
 
+## Context of Task
+In simple terms, the context of the task in Human-Computer Interaction (HCI) refers to the situation or environment in which people interact with a computer or technology. It includes things like where the interaction is happening, what the person is trying to do, and any factors that might affect the interaction. For example, the context could be using a smartphone app to search for and book a hotel room while on vacation. Understanding the context helps designers create user-friendly and effective technology that fits people's needs and makes their interactions easier and more enjoyable.
+
+## Context of Task (in depth)
+In-depth, the context of the task in Human-Computer Interaction (HCI) refers to the broader framework within which an interaction between humans and computers takes place. It encompasses various elements that influence the design, usage, and effectiveness of interactive systems. Understanding the context is crucial for creating user-centered designs and improving the overall user experience.
+
+The context involves several key aspects:
+
+1. Physical Environment: This includes the physical setting in which the interaction occurs. Factors such as lighting, noise, temperature, and ergonomics can impact how users engage with technology. For example, using a mobile app in a crowded, noisy environment might require a design that emphasizes clear visuals and intuitive gestures.
+
+2. Social Environment: The social context considers the presence and influence of others during the interaction. Social factors, such as social norms, cultural expectations, and collaborative or competitive dynamics, can shape how people use technology. For instance, social media platforms need to consider the social context in which users share information and interact with others.
+
+3. User Characteristics: Users have unique characteristics, including their knowledge, skills, preferences, and goals. Understanding users' background and capabilities helps tailor technology to their needs. Designers need to consider factors like age, education level, previous experience with technology, and any disabilities or impairments that users may have.
+
+4. Task Characteristics: The specific goals, activities, and requirements of the task at hand influence the design of interactive systems. Factors such as the complexity of the task, the frequency of use, and the importance of accuracy or efficiency play a role in shaping the user interface and interaction design.
+
+5. Technological Constraints: The capabilities and limitations of the underlying technology must be taken into account. Factors such as processing power, screen size, input/output mechanisms, and connectivity affect the design and usability of the system.
+
+6. Temporal Factors: The temporal context considers the timing and duration of the interaction. Factors like user goals, time constraints, interruptions, and the sequential nature of tasks impact how users engage with technology. For example, a time-critical task may require a streamlined interface to expedite user actions.
+
+By understanding the context, HCI designers can create interfaces that are intuitive, efficient, and enjoyable for users. Design decisions are influenced by factors such as the physical and social environment, user characteristics, task requirements, technological constraints, and temporal considerations. Taking these contextual factors into account leads to designs that better meet users' needs, expectations, and preferences.
 ## Naturalistic Observation
 
 Understand the problem space and ask people later on.
