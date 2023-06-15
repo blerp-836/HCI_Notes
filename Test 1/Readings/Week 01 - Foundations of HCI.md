@@ -30,14 +30,14 @@ metaphor brings concepts from the office desktop to the system’s display.
 it, the system is built and the degrees of freedom are bound. This is an overstatement, perhaps, but it is true that novel interactions in new products always seem to be followed by a flurry of research papers identifying weaknesses and suggesting and evaluating improvements.
 	- This is very important part of the chapter and must read.
 	- **MHP** - _model human processor_
-		What Card,Moran, and Newell did was connect low-level human processes with the seemingly
+		- What Card,Moran, and Newell did was connect low-level human processes with the seemingly
 		innocuous interactions humans have with computers (e.g., typing or using a mouse).
 		The framework for this was the model human processor (MHP). (See Figure 1.11.)
 		The MHP had an eye and an ear (for sensory input to a perceptual processor), a
 		brain (with a cognitive processor, short-term memory, and long-term memory), and an arm, hand, and finger (for motor responses).
 
 	- **KLM** - _keystroke-level model_
-		If a complex task can be deconstructed into primitive actions,
+		- If a complex task can be deconstructed into primitive actions,
 		there is a good chance the time to do the task can be predicted by dividing the task
 		into a series of motor actions interlaced with perceptual and cognitive processing
 		cycles. This idea is presented in Card, Moran, and Newell’s book as a keystroke-
