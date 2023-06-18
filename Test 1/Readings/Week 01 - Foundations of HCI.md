@@ -57,7 +57,7 @@ it, the system is built and the degrees of freedom are bound. This is an oversta
 
 ### Types of Designs
 
-The major areas of design relevant to this book are industrial design, interaction design, and experience design. None of the fields is well defined, but the focus of the efforts does vary, with industrialone designers emphasizing form and material, interactive designers emphasizing understandability and usability, and experience designers emphasizing the emotional impact
+The major areas of design relevant to this book are industrial design, interaction design, and experience design. None of the fields is well defined, but the focus of the efforts does vary, with industrial, designers emphasizing form and material, interactive designers emphasizing understandability and usability, and experience designers emphasizing the emotional impact
 
 
 - **Industrial design** - the professional service of creating and developing concepts and specifications that optimize the function, value, and appearance of products and systems for the mutual benefit of both user and manufacturer
