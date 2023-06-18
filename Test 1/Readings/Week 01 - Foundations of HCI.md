@@ -35,6 +35,7 @@ it, the system is built and the degrees of freedom are bound. This is an oversta
 		The framework for this was the model human processor (MHP). (See Figure 1.11.)
 		The MHP had an eye and an ear (for sensory input to a perceptual processor), a
 		brain (with a cognitive processor, short-term memory, and long-term memory), and an arm, hand, and finger (for motor responses).
+		<img width="314" alt="image" src="https://github.com/blerp-836/HCI_Notes/assets/78700027/2a247188-7113-4e0b-8ccd-bde61910c1df">
 
 	- **KLM** - _keystroke-level model_
 		- If a complex task can be deconstructed into primitive actions,
